@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @marcela-medeiros
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me: marcela.medeiros@mail.com or @business.marcelam on Instagram :)
+#Projeto em Python-Confirmação de Recebimento de Mercadoria
 
-<!---
-marcela-medeiros/marcela-medeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Simulação de um simples sistema automatizado de confirmação de recebimento de mercadoria entre empresa de e-commerce e cliente.
+
+* Desenvolvido no Google Colab.
+
+
+
+
