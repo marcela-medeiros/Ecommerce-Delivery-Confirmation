@@ -6,7 +6,6 @@ Simulação de um simples sistema automatizado de confirmação de recebimento d
 
 
 1. Cliente deve informar o ID
-   - número de ID deve corresponder 11223344.
 2. Boas Vindas do sistema e notificação de entrega do produto em uma data.
 3. Sistema solicita ao cliente que confirme o recebimento com 1 (yes) ou 2 (no)
 4. Resposta do cliente
